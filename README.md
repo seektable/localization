@@ -6,6 +6,5 @@ This repository contains translations for non-English SeekTable UI. If there is 
 [white-label mode subcription](https://www.seektable.com/help/self-hosted-setup#paid). This means that free users can use only SeekTable with English interface.
 
 ## How to localize your SeekTable installation
-
-# Go to "Admin" &rarr; "UI Localization"
-# Choose JSON-file for desired language, copy-paste its content into the textarea and press "Save"
+1. Go to "Admin" &rarr; "UI Localization"
+1. Choose JSON-file for desired language, copy-paste its content into the textarea and press "Save"
