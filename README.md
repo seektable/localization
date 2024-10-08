@@ -5,6 +5,8 @@ The following ready-to-use translations are available:
 
 * Ukrainian (native translation)
 * German (AI translation)
+* Danish (AI translation)
+
 
 ## What is SeekTable
 [SeekTable.com](https://www.seektable.com/) is a self-service BI tool, it has both cloud and on-premise versions. Localization is possible only for on-prem SeekTable installation, and only if it has an active 
