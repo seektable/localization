@@ -1,5 +1,5 @@
 # SeekTable UI Localization Resources
-This repository contains translations for non-English SeekTable UI. If there is no localization for your language yet, feel free to contribute the translation!
+This repository contains translations for non-English SeekTable UI. If there is no localization for your language yet, feel free to contribute the translation (or fixes to existing AI-guided translations)!
 
 The following ready-to-use translations are available:
 
@@ -8,6 +8,8 @@ The following ready-to-use translations are available:
 * Danish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=da-DK)
 * Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
 * French (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=fr-FR)
+* Spanish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=es-ES)
+* Italian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=it-IT)
 
 ## What is SeekTable
 [SeekTable.com](https://www.seektable.com/) is a self-service BI tool, it has both cloud and on-premise versions. Localization is possible only for on-prem SeekTable installation, and only if it has an active 
