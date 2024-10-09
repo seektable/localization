@@ -53,6 +53,7 @@
   "APP_TOP_MENU_REPORTS": "Berichte",
   "APP_TOP_MENU_SEARCH": "Suchen...",
   "APP_BTN_UPLOAD_DATA": "Daten hochladen",
+  "APP_BTN_UPLOAD_DATA_NOTE":"Wählen Sie die hochzuladende Datendatei aus: CSV/TSV (kann komprimiert werden, bis zu 50 MB), Excel (bis zu 5 MB)",  
   "APP_LEFT_MENU_ADD_NEW_REPORT": "Neuer Bericht",
   "APP_LEFT_MENU_DELETE_CUBE": "Datenwürfel löschen",
   "APP_LEFT_MENU_SHARED_MARKER": "geteilt",

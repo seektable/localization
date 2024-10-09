@@ -53,6 +53,7 @@
   "APP_TOP_MENU_REPORTS": "Rapporter",
   "APP_TOP_MENU_SEARCH": "Søg...",
   "APP_BTN_UPLOAD_DATA": "Upload data",
+  "APP_BTN_UPLOAD_DATA_NOTE":"Vælg datafil, der skal uploades: CSV/TSV (kan zippes, op til 50 Mb), Excel (op til 5 Mb)",  
   "APP_LEFT_MENU_ADD_NEW_REPORT": "Tilføj ny rapport",
   "APP_LEFT_MENU_DELETE_CUBE": "Slet terning",
   "APP_LEFT_MENU_SHARED_MARKER": "delt",

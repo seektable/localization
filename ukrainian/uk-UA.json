@@ -53,6 +53,7 @@
   "APP_TOP_MENU_REPORTS": "Звіти",
   "APP_TOP_MENU_SEARCH": "Пошук...",
   "APP_BTN_UPLOAD_DATA": "Завантажити дані",
+  "APP_BTN_UPLOAD_DATA_NOTE":"Оберіть файл для завантаження: CSV/TSV (може бути zip, до 50Mb), Excel (до 5Mb)",  
   "APP_LEFT_MENU_ADD_NEW_REPORT": "Додати новий звіт",
   "APP_LEFT_MENU_DELETE_CUBE": "Видалити куб",
   "APP_LEFT_MENU_SHARED_MARKER": "спільний",

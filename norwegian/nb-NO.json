@@ -53,6 +53,7 @@
   "APP_TOP_MENU_REPORTS": "Rapporter",
   "APP_TOP_MENU_SEARCH": "Søk...",
   "APP_BTN_UPLOAD_DATA": "Last opp data",
+  "APP_BTN_UPLOAD_DATA_NOTE":"Velg datafil som skal lastes opp: CSV/TSV (kan zippes, opptil 50 Mb), Excel (opptil 5 Mb)",  
   "APP_LEFT_MENU_ADD_NEW_REPORT": "Legg til ny rapport",
   "APP_LEFT_MENU_DELETE_CUBE": "Slett kube",
   "APP_LEFT_MENU_SHARED_MARKER": "delt",
