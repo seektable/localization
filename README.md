@@ -6,7 +6,7 @@ The following ready-to-use translations are available:
 * Ukrainian (native translation)
 * German (AI translation)
 * Danish (AI translation)
-
+* Norwegian (AI translation)
 
 ## What is SeekTable
 [SeekTable.com](https://www.seektable.com/) is a self-service BI tool, it has both cloud and on-premise versions. Localization is possible only for on-prem SeekTable installation, and only if it has an active 
@@ -16,4 +16,4 @@ The following ready-to-use translations are available:
 1. Go to "Admin" &rarr; "UI Localization"
 1. Choose JSON-file for desired language, copy-paste its content into the textarea and press "Save"
 
-SeekTable can be configured to support multiple languages and even for cube labels translation: [SeekTable localization](https://www.seektable.com/help/self-hosted-localization).
+SeekTable can be configured to support multiple languages (including cubes/reports labels translation): [SeekTable localization](https://www.seektable.com/help/self-hosted-localization).
