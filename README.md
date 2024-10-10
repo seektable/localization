@@ -11,6 +11,7 @@ The following ready-to-use translations are available:
 * Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
 * Portuguese (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pt-BR)
 * Spanish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=es-ES)
+* Turkish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=tr-TR)
 * Ukrainian (native translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=uk-UA)
 
 ## What is SeekTable
