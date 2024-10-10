@@ -6,6 +6,7 @@ The following ready-to-use translations are available:
 * Danish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=da-DK)
 * French (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=fr-FR)
 * German (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=de-DE)
+* Greek (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=el-GR)
 * Italian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=it-IT)
 * Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
 * Portuguese (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pt-BR)
