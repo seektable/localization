@@ -3,13 +3,14 @@ This repository contains translations for non-English SeekTable UI. If there is 
 
 The following ready-to-use translations are available:
 
-* Ukrainian (native translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=uk-UA)
-* German (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=de-DE)
 * Danish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=da-DK)
-* Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
 * French (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=fr-FR)
-* Spanish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=es-ES)
+* German (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=de-DE)
 * Italian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=it-IT)
+* Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
+* Portuguese (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pt-BR)
+* Spanish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=es-ES)
+* Ukrainian (native translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=uk-UA)
 
 ## What is SeekTable
 [SeekTable.com](https://www.seektable.com/) is a self-service BI tool, it has both cloud and on-premise versions. Localization is possible only for on-prem SeekTable installation, and only if it has an active 
