@@ -9,6 +9,7 @@ The following ready-to-use translations are available:
 * Greek (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=el-GR)
 * Italian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=it-IT)
 * Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
+* Polish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pl-PL)
 * Portuguese (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pt-BR)
 * Spanish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=es-ES)
 * Turkish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=tr-TR)
