@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Diese Option ist nützlich, wenn der Bericht auf dem Wanddisplay angezeigt wird.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Benutzerdefiniertes CSS",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Geben Sie CSS-Regeln ein, um die Berichtsformate anzupassen",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Benutzerdefiniertes HTML",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Zusätzlicher HTML-Code für die Fußzeile (ein JS-Skriptblock kann hier platziert werden, um die Berichtstabelle im Code anzupassen)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Export-Buttons",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Position: Oben (oberhalb des Berichts) / Filterposition (falls vorhanden)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Position: Unten (unterhalb des Berichts)",

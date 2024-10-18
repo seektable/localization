@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Αυτή η επιλογή είναι χρήσιμη όταν η έκθεση εμφανίζεται στην οθόνη τοίχου.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Προσαρμοσμένο CSS",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Εισαγάγετε κανόνες CSS για να προσαρμόσετε τα στυλ έκθεσης",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Προσαρμοσμένο HTML",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Πρόσθετος κώδικας HTML υποσέλιδου (το μπλοκ σεναρίου JS μπορεί να τοποθετηθεί εδώ για να προσαρμόσετε τον πίνακα της αναφοράς σε κώδικα)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Κουμπιά εξαγωγής",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Θέση: Επάνω (πάνω από την έκθεση) / Θέση φίλτρου (εάν υπάρχει)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Θέση: Κάτω (κάτω από την έκθεση)",

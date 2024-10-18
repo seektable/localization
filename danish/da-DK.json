@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Denne mulighed er nyttig, når rapporten vises på vægdisplayet.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Tilpasset CSS",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Indtast CSS-regler for at tilpasse rapportstile",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Brugerdefineret HTML",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Yderligere sidefod HTML-kode (JS-scriptblok kan placeres her for at tilpasse rapportens tabel i kode)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Eksportknapper",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Position: Øverst (over rapporten) / Filterposition (hvis til stede)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Position: Nederst (under rapporten)",

@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Ta opcja jest przydatna, gdy raport jest wyświetlany na ekranie ściany.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Niestandardowy CSS",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Wprowadź reguły CSS, aby dostosować style raportu",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Niestandardowy HTML",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Dodatkowy kod HTML stopki (blok skryptu JS można umieścić tutaj, aby dostosować tabelę raportu w kodzie)",  
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Przyciski eksportu",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Pozycja: Góra (nad raportem) / pozycja filtra (jeśli istnieje)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Pozycja: Dół (pod raportem)",

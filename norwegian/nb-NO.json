@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Dette alternativet er nyttig når rapporten vises på veggvisning.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Tilpasset CSS",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Skriv inn CSS-regler for å tilpasse rapportstiler",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Egendefinert HTML",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Ekstra bunntekst HTML-kode (JS-skriptblokk kan plasseres her for å tilpasse rapportens tabell i kode)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Eksportknapper",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Posisjon: Topp (over rapporten) / Filterposisjon (hvis tilstede)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Posisjon: Bunn (under rapporten)",

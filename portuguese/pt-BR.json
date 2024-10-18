@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Esta opção é útil quando o relatório é mostrado na tela da parede.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "CSS personalizado",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Insira regras CSS para personalizar os estilos do relatório",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "HTML personalizado",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Código HTML de rodapé adicional (o bloco de script JS pode ser colocado aqui para personalizar a tabela do relatório no código)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Botões de exportação",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Posição: Topo (acima do relatório) / Posição do filtro (se presente)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Posição: Inferior (abaixo do relatório)",

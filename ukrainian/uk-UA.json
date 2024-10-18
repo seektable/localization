@@ -442,6 +442,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Ця опція корисна при показі звіту на офісному екрані",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Додатковий CSS",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "CSS правила для кастомізації стилів звіту",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Додатковий HTML",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Додатковий HTML-код нижнього колонтитула (блок JS можна розмістити тут, щоб модифікувати таблицю звіту в коді)",  
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Кнопки для експорта",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Позиція: зверху (над звітом) або як частина фільтру (якщо присутній)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Позиція: знизу (під звітом)",

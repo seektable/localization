@@ -444,6 +444,8 @@
 "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Bu seçenek, rapor duvar ekranında gösterilirken kullanışlıdır.",
 "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "Özel CSS",
 "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Rapor stillerini özelleştirmek için CSS kuralları girin",
+"PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "Özel HTML",
+"PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Ek altbilgi HTML kodu (JS betik bloğu buraya yerleştirilerek raporun tablosu kodda özelleştirilebilir)",
 "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Dışa Aktar düğmeleri",
 "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Pozisyon: Üst (raporun üstünde) / Filtre konumu (varsa)",
 "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Pozisyon: Alt (raporun altında)",

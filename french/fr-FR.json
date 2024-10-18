@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Cette option est utile lorsque le rapport est affiché sur l'écran mural.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "CSS personnalisé",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Saisissez des règles CSS pour personnaliser les styles du rapport",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "HTML personnalisé",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Code HTML de pied de page supplémentaire (un bloc de script JS peut être placé ici pour personnaliser le tableau du rapport dans le code)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Boutons d'exportation",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Position : Haut (au-dessus du rapport) / Position du filtre (le cas échéant)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Position : Bas (en dessous du rapport)",

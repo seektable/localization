@@ -444,6 +444,8 @@
   "PUBLIC_REPORT_CONFIGURE_AUTO_REFRESH_NOTE": "Questa opzione è utile quando il report viene mostrato sul display a parete.",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS": "CSS personalizzato",
   "PUBLIC_REPORT_CONFIGURE_CUSTOM_CSS_PLACEHOLDER": "Inserisci le regole CSS per personalizzare gli stili del report",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML": "HTML personalizzato",
+  "PUBLIC_REPORT_CONFIGURE_CUSTOM_HTML_PLACEHOLDER": "Codice HTML aggiuntivo per il piè di pagina (qui è possibile posizionare un blocco di script JS per personalizzare la tabella del report nel codice)",  
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS": "Bottoni di esportazione",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_top": "Posizione: Sopra (sopra il report) / Posizione filtro (se presente)",
   "PUBLIC_REPORT_CONFIGURE_EXPORT_BUTTONS_POS_OPT_bottom": "Posizione: Sotto (sotto il report)",
