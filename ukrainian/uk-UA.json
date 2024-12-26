@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Фільтр",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Ключові слова для співпадіння, відділені комою чи точкою з комою",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "допомога по синтаксису",
+  "APP_REPORT_FORM_FILTER_ALL":"(все)",
   "APP_REPORT_FORM_LIMITS": "Ліміти",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Все рядки (пагінація)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Перших рядків: {0}",

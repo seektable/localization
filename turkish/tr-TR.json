@@ -159,6 +159,7 @@
 "APP_REPORT_FORM_FILTER": "Filtre",
 "APP_REPORT_FORM_FILTER_TOOLTIP": "Virgül veya noktalı virgül ile ayrılmış eşleşen anahtar kelimeler",
 "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "filtre sözdizimi yardımı",
+"APP_REPORT_FORM_FILTER_ALL":"(tüm)",
 "APP_REPORT_FORM_LIMITS": "Sınırlamalar",
 "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Tüm satırlar (sayfalama)",
 "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "İlk {0} satır",

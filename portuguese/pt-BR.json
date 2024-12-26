@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Filtro",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Palavras-chave para corresponder, separadas por vírgula ou ponto e vírgula",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "Ajuda de sintaxe de filtro",
+  "APP_REPORT_FORM_FILTER_ALL":"(tudo)",  
   "APP_REPORT_FORM_LIMITS": "Limites",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Todas as linhas (paginação)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Top {0} linhas",

@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Filtr",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Słowa kluczowe do dopasowania, oddzielone przecinkiem lub średnikiem",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "Pomoc dotycząca składni filtra",
+  "APP_REPORT_FORM_FILTER_ALL":"(wszystko)",  
   "APP_REPORT_FORM_LIMITS": "Ograniczenia",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Wszystkie wiersze (paginacja)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Pierwsze {0} wierszy",

@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Filter",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Durch Komma oder Semikolon getrennte Schlüsselwörter zur Übereinstimmung",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "Hilfe zur Filter-Syntax",
+  "APP_REPORT_FORM_FILTER_ALL":"(alle)",
   "APP_REPORT_FORM_LIMITS": "Limits",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Alle Zeilen (Paginierung)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Oberste {0} Zeilen",

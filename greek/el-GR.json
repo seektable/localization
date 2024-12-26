@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Φίλτρο",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Λέξεις-κλειδιά που ταιριάζουν, διαχωρισμένες με κόμμα ή σημείο στίξης",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "Βοήθεια σύνταξης φίλτρου",
+  "APP_REPORT_FORM_FILTER_ALL":"(όλα)",
   "APP_REPORT_FORM_LIMITS": "Όρια",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Όλες οι γραμμές (σελφοποίηση)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Κορυφαίες {0} γραμμές",

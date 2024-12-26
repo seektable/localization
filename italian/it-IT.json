@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Filtro",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Parole chiave da corrispondere separate da virgola o punto e virgola",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "Guida alla sintassi del filtro",
+  "APP_REPORT_FORM_FILTER_ALL":"(tutti)",
   "APP_REPORT_FORM_LIMITS": "Limiti",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Tutte le righe (paginazione)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Prime {0} righe",

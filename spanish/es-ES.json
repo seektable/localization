@@ -159,6 +159,7 @@
   "APP_REPORT_FORM_FILTER": "Filtro",
   "APP_REPORT_FORM_FILTER_TOOLTIP": "Palabras clave separadas por coma o punto y coma",
   "APP_REPORT_FORM_FILTER_SYNTAX_HELP": "Ayuda de sintaxis de filtro",
+  "APP_REPORT_FORM_FILTER_ALL":"(todos)",  
   "APP_REPORT_FORM_LIMITS": "Límites",
   "APP_REPORT_FORM_LIMITS_OPT_empty_rows": "Todas las filas (paginación)",
   "APP_REPORT_FORM_LIMITS_OPT_top_N_rows_template": "Primeras {0} filas",
