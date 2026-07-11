@@ -8,12 +8,16 @@ The following ready-to-use translations are available:
 * German (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=de-DE)
 * Greek (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=el-GR)
 * Italian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=it-IT)
+* Japanese (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=ja-JP)
 * Norwegian (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=nb-NO)
 * Polish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pl-PL)
 * Portuguese (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=pt-BR)
 * Spanish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=es-ES)
 * Turkish (AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=tr-TR)
+* Chinese (simplified; AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=zh-CN)
+* Chinese (traditional; AI translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=zh-TW)
 * Ukrainian (native translation) [online demo](http://demo.seektable.com/report/f1117f18a5954782b326c87bc607bbdc?locale=uk-UA)
+
 
 ## What is SeekTable
 [SeekTable.com](https://www.seektable.com/) is a self-service BI tool, it has both cloud and on-premise versions. Localization is possible only for on-prem SeekTable installation, and only if it has an active 
